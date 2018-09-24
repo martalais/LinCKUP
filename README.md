@@ -1,3 +1,3 @@
 # LinCKUP
 
-Script desenvolvido em Python para backup com confirmação via e-mail.
+Script desenvolvido para backup com confirmação via e-mail.
