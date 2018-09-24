@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script de BACKUP com confirmação via e-mail, em Python. 
+# Script de BACKUP com confirmação via e-mail.
 # Marta Laís, 2018. GASiS3 (c)
 
 
